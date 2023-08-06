@@ -9,3 +9,6 @@ Implementation of ADDA paper published in CVPR2017
   year = {2017}
 }
 ```
+<p align="center">
+  <img src="plot_predicted.png" />
+</p>
