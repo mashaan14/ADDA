@@ -1,5 +1,5 @@
 # ADDA
-Implementation of ADDA paper published in CVPR2017
+Implementation of ADDA (**A**dversarial **D**iscriminative **D**omain **A**daptation) paper published in CVPR2017
 ```bibtex
 @InProceedings{Tzeng_2017_CVPR,
   author = {Tzeng, Eric and Hoffman, Judy and Saenko, Kate and Darrell, Trevor},
